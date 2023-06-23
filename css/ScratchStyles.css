@@ -1,0 +1,23 @@
+body{ 
+    background-color: rgb(15, 217, 136);
+}
+
+.AlignPage{
+    text-align: center;
+}
+
+.Underline{
+    text-decoration: underline ;
+}
+
+.Bold{
+    font-weight: 500;
+}
+
+.Strike{
+    text-decoration: line-through;
+}
+
+.FontMe{
+    font-family: 'Times New Roman', Times, serif;
+}
